@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySecondCustom</string>
+    <string name="btn_label">Press Me</string>
+</resources>
